@@ -15,6 +15,8 @@ apparently alot of pop songs follow certain chord patterns.
 <li><a href="https://huggingface.co/models">HuggingFace</a> has a set of language generation algorithms for the Spanish
  language; there's 14 of them and all of them were produced in 2021!
 </li>
+<li>Spanish GPT-2 from <a href="https://huggingface.co/datificate/gpt2-small-spanish">HuggingFace</a></li>
+<li>HuggingFace <a href="https://huggingface.co/models?language=es&pipeline_tag=text-generation&sort=downloads">List</a> of Spanish Text Generation Language Models</li>
 <li>Medium 
 <a href="https://medium.com/motius-de/schlagerai-automatically-generating-pop-lyrics-using-language-models-39620d4f83ad">article</a> shows Spotify has a Web API I can use to scrape information about playlists, artists, and songs. 
 A python library called Spotipy can also help. 
@@ -22,7 +24,7 @@ LyricsGenius (another Python library) can also help.</li>
 <li>Someone from <a href="https://towardsdatascience.com/song-lyrics-genius-api-dcc2819c29">TDS</a> also advocates using the Genius API and LyricsGenius</li>
 <li>Spanish word embeddings <a href="https://github.com/dccuchile/spanish-word-embeddings"> GitHub</a></li>
 <li><a href="https://www.kaggle.com/datasets/rtatman/pretrained-word-vectors-for-spanish">Kaggle</a> - Pre-trained word vectors for Spanish</li>
-
+<li><a href="https://www.kaggle.com/datasets/jcecheverria/bad-bunny-lyrics">Kaggle</a>: Bad Bunny <a href="https://www.kaggle.com/datasets/lvlvlv210/bad-bunny-lyrics-013022">lyrics</a></li>
 
 
 
