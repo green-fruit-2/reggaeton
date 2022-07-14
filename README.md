@@ -1,4 +1,6 @@
 # reggaeton
+<a href="https://nbviewer.org/github/green-fruit-2/reggaeton/blob/main/notebook9359e46f9b.ipynb">Jupyter Notebook code.</a>
+
 The aim of this project is to become well-versed in deep learning techniques, 
 using Spanish music as the prime motivator. I anticipate key aspects of the project will include natural language generation,
 visual and audio GANs, and possibly music generation (admittedly I have less
