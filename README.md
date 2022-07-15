@@ -30,4 +30,5 @@ LyricsGenius (another Python library) can also help.</li>
 <li>Someone from <a href="https://towardsdatascience.com/song-lyrics-genius-api-dcc2819c29">TDS</a> also advocates using the Genius API and LyricsGenius</li>
 <li>Spanish word embeddings <a href="https://github.com/dccuchile/spanish-word-embeddings"> GitHub</a></li>
 <li><a href="https://www.kaggle.com/datasets/rtatman/pretrained-word-vectors-for-spanish">Kaggle</a> - Pre-trained word vectors for Spanish</li>
+<li>Spanish Text Irony <a href="https://huggingface.co/pysentimiento/robertuito-irony">Detector</a> using RoBERTuito, a RoBERTa model trained in Spanish tweets</li>
 
