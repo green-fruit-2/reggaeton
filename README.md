@@ -1,6 +1,10 @@
 # reggaeton
 <a href="https://nbviewer.org/github/green-fruit-2/reggaeton/blob/main/notebook9359e46f9b.ipynb">Jupyter Notebook code.</a>
 
+<b>Note</b>: Change the location of the lyrics file to run the code. I ran
+this notebook in Kaggle, but the file location will be different for your machine.
+The following will likely be the location of your lyrics file: <i>../reggaeton/bad_bunny_lyrics.csv</i>.
+
 The aim of this project is to become well-versed in deep learning techniques, 
 using Spanish music as the prime motivator. I anticipate key aspects of the project will include natural language generation,
 visual and audio GANs, and possibly music generation (admittedly I have less
@@ -26,7 +30,4 @@ LyricsGenius (another Python library) can also help.</li>
 <li>Someone from <a href="https://towardsdatascience.com/song-lyrics-genius-api-dcc2819c29">TDS</a> also advocates using the Genius API and LyricsGenius</li>
 <li>Spanish word embeddings <a href="https://github.com/dccuchile/spanish-word-embeddings"> GitHub</a></li>
 <li><a href="https://www.kaggle.com/datasets/rtatman/pretrained-word-vectors-for-spanish">Kaggle</a> - Pre-trained word vectors for Spanish</li>
-<li><a href="https://www.kaggle.com/datasets/jcecheverria/bad-bunny-lyrics">Kaggle</a>: Bad Bunny <a href="https://www.kaggle.com/datasets/lvlvlv210/bad-bunny-lyrics-013022">lyrics</a></li>
-
-
 
